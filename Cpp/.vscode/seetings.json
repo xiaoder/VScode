@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.encoding": "gbk"
+}
